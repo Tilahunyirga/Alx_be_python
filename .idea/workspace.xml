@@ -5,12 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d2eb7743-013d-4f4c-bea2-70d00aae9f2d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/control-flow/pattern_drawing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programming_paradigm/bank_account.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programming_paradigm/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/control-flow/match_case_calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/control-flow/match_case_calculator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/control-flow/multiplication_table.py" beforeDir="false" afterPath="$PROJECT_DIR$/control-flow/multiplication_table.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control-flow/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/control-flow/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control-flow/daily_reminder.py" beforeDir="false" afterPath="$PROJECT_DIR$/control-flow/daily_reminder.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/control-flow/weather_advice.py" beforeDir="false" afterPath="$PROJECT_DIR$/control-flow/weather_advice.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_introduction/finance_calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_introduction/finance_calculator.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,17 +33,22 @@
   &quot;associatedIndex&quot;: 8
 }</component>
   <component name="ProjectId" id="2iIFiz2WPRtGGTDMDrn7a2zMGRX" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/Habtam/Desktop/Alx_be_python"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
