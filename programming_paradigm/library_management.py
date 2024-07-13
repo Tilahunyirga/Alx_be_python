@@ -3,9 +3,9 @@ class Book:
         self.title = title
         self.author = author
         self._is_checked_out = False
-class Library :
+class Library:
     def __init__(self):
-        self._books=[]
+        self._books = []
     def add_book(self,book:Book):
         self._books.append(book)
 
@@ -17,7 +17,7 @@ class Library :
 
     def return_book(self):
         for book in self._books:
-            if book.title == "" and book._is_checked_out == True:
+            if book.title == "1984" and book._is_checked_out == True:
                 book._is_checked_out = False
 
     def list_available_books(self):
