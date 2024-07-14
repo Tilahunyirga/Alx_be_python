@@ -4,15 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d2eb7743-013d-4f4c-bea2-70d00aae9f2d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/programming_paradigm/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="d2eb7743-013d-4f4c-bea2-70d00aae9f2d" name="Changes" comment="fix time formatting">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/control-flow/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/control-flow/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/control-flow/daily_reminder.py" beforeDir="false" afterPath="$PROJECT_DIR$/control-flow/daily_reminder.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/control-flow/weather_advice.py" beforeDir="false" afterPath="$PROJECT_DIR$/control-flow/weather_advice.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/programming_paradigm/bank_account.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_paradigm/bank_account.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programming_paradigm/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_paradigm/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +55,36 @@
       <option name="presentableId" value="Default" />
       <updated>1719170333058</updated>
     </task>
+    <task id="LOCAL-00001" summary="fix space">
+      <option name="closed" value="true" />
+      <created>1720913090947</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1720913090947</updated>
+    </task>
+    <task id="LOCAL-00002" summary="fix time formatting">
+      <option name="closed" value="true" />
+      <created>1720913917324</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1720913917324</updated>
+    </task>
+    <task id="LOCAL-00003" summary="fix time formatting">
+      <option name="closed" value="true" />
+      <created>1720917407667</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1720917407667</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fix space" />
+    <MESSAGE value="fix time formatting" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix time formatting" />
   </component>
 </project>
