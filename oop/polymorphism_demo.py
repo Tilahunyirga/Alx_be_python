@@ -9,7 +9,7 @@ class Rectangle(Shape):
         self.width = width
 
     def area(self):
-        return ("%.2d" %float(self.length*self.width))
+        return ("%.2d" %float (self.length * self.width))
 
 
 class Circle(Shape):
