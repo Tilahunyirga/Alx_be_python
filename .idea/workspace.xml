@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d2eb7743-013d-4f4c-bea2-70d00aae9f2d" name="Changes" comment="fix time formatting">
+    <list default="true" id="d2eb7743-013d-4f4c-bea2-70d00aae9f2d" name="Changes" comment="static and class method">
+      <change afterPath="$PROJECT_DIR$/oop/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programming_paradigm/simple_calculator.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/control-flow/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/control-flow/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/control-flow/daily_reminder.py" beforeDir="false" afterPath="$PROJECT_DIR$/control-flow/daily_reminder.py" afterDir="false" />
@@ -37,15 +39,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/Habtam/Desktop/Alx_be_python"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Habtam/Desktop/Alx_be_python&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -79,12 +81,212 @@
       <option name="project" value="LOCAL" />
       <updated>1720917407667</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="test simple calculator">
+      <option name="closed" value="true" />
+      <created>1720885572272</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1720885572272</updated>
+    </task>
+    <task id="LOCAL-00005" summary="fix simplecalculator function exist">
+      <option name="closed" value="true" />
+      <created>1720885685207</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1720885685207</updated>
+    </task>
+    <task id="LOCAL-00006" summary="library management">
+      <option name="closed" value="true" />
+      <created>1720890756475</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1720890756475</updated>
+    </task>
+    <task id="LOCAL-00007" summary="remove returns">
+      <option name="closed" value="true" />
+      <created>1720891270826</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1720891270826</updated>
+    </task>
+    <task id="LOCAL-00008" summary="remove returns">
+      <option name="closed" value="true" />
+      <created>1720891560576</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1720891560576</updated>
+    </task>
+    <task id="LOCAL-00009" summary="fix failing">
+      <option name="closed" value="true" />
+      <created>1720892111428</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1720892111428</updated>
+    </task>
+    <task id="LOCAL-00010" summary="my book class">
+      <option name="closed" value="true" />
+      <created>1721391590988</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1721391590988</updated>
+    </task>
+    <task id="LOCAL-00011" summary="fix chars">
+      <option name="closed" value="true" />
+      <created>1721391966287</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1721391966287</updated>
+    </task>
+    <task id="LOCAL-00012" summary="my first library system">
+      <option name="closed" value="true" />
+      <created>1721463987144</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1721463987144</updated>
+    </task>
+    <task id="LOCAL-00013" summary="fix self.books">
+      <option name="closed" value="true" />
+      <created>1721464260379</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1721464260379</updated>
+    </task>
+    <task id="LOCAL-00014" summary="fix chars">
+      <option name="closed" value="true" />
+      <created>1721464408322</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1721464408322</updated>
+    </task>
+    <task id="LOCAL-00015" summary="fix chars">
+      <option name="closed" value="true" />
+      <created>1721464501725</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1721464501725</updated>
+    </task>
+    <task id="LOCAL-00016" summary="fix chars">
+      <option name="closed" value="true" />
+      <created>1721464594878</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1721464594878</updated>
+    </task>
+    <task id="LOCAL-00017" summary="my first polymorphism">
+      <option name="closed" value="true" />
+      <created>1721504201558</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1721504201558</updated>
+    </task>
+    <task id="LOCAL-00018" summary="my first polymorphism">
+      <option name="closed" value="true" />
+      <created>1721504427167</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1721504427167</updated>
+    </task>
+    <task id="LOCAL-00019" summary="my first polymorphism">
+      <option name="closed" value="true" />
+      <created>1721504888904</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1721504888904</updated>
+    </task>
+    <task id="LOCAL-00020" summary="my first polymorphism">
+      <option name="closed" value="true" />
+      <created>1721505260791</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1721505260791</updated>
+    </task>
+    <task id="LOCAL-00021" summary="fix **2">
+      <option name="closed" value="true" />
+      <created>1721505381516</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1721505381516</updated>
+    </task>
+    <task id="LOCAL-00022" summary="fix **2">
+      <option name="closed" value="true" />
+      <created>1721505441174</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1721505441174</updated>
+    </task>
+    <task id="LOCAL-00023" summary="fix rect">
+      <option name="closed" value="true" />
+      <created>1721505551525</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1721505551525</updated>
+    </task>
+    <task id="LOCAL-00024" summary="fix rect">
+      <option name="closed" value="true" />
+      <created>1721505639935</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1721505639935</updated>
+    </task>
+    <task id="LOCAL-00025" summary="static and class method">
+      <option name="closed" value="true" />
+      <created>1721579324018</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1721579324018</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="fix space" />
     <MESSAGE value="fix time formatting" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix time formatting" />
+    <MESSAGE value="test simple calculator" />
+    <MESSAGE value="fix simplecalculator function exist" />
+    <MESSAGE value="library management" />
+    <MESSAGE value="remove returns" />
+    <MESSAGE value="fix failing" />
+    <MESSAGE value="my book class" />
+    <MESSAGE value="my first library system" />
+    <MESSAGE value="fix self.books" />
+    <MESSAGE value="fix chars" />
+    <MESSAGE value="my first polymorphism" />
+    <MESSAGE value="fix **2" />
+    <MESSAGE value="fix rect" />
+    <MESSAGE value="static and class method" />
+    <option name="LAST_COMMIT_MESSAGE" value="static and class method" />
   </component>
 </project>
